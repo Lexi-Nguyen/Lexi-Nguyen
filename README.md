@@ -29,10 +29,14 @@ Thanks for stopping by!
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-## 📊 GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lexi-Nguyen&show_icons=true&theme=radical&hide=contribs,prs,issues)
+## 💻 My Projects:
 
 <a href="https://github.com/Lexi-Nguyen/PowerBI-Sample-Work/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Lexi-Nguyen&repo=PowerBI-Sample-Work&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Lexi-Nguyen&repo=PowerBI-Sample-Work&theme=highcontrast"/>
 </a>    
+
+
+## 📊 GitHub Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lexi-Nguyen&show_icons=true&theme=radical&hide=contribs,prs,issues)
+
