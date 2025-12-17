@@ -12,6 +12,6 @@ Thanks for stopping by!
 
 ## 📬 How to reach me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/lexi-nguyen-b56a3a28a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lexi-nguyen-b56a3a28a)
 
 
