@@ -11,7 +11,7 @@ Thanks for stopping by!
 ## 📬 How to reach me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lexi-nguyen-b56a3a28a)
-[![Email](https://img.shields.io/badge/Email-grey?logo=gmail&logoColor=white)](mailto:klinhng1511@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-grey?logo=gmail&logoColor=white)](mailto:klinhng1511@gmail.com)
 
 
 ## 💻 My Skills:
