@@ -31,3 +31,8 @@ Thanks for stopping by!
 
 ## 📊 GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lexi-Nguyen&show_icons=true&theme=radical&hide=contribs,prs,issues)
+
+<a href="https://github.com/Lexi-Nguyen/PowerBI-Sample-Work/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Lexi-Nguyen&repo=PowerBI-Sample-Work&theme=radical" />
+</a>    
