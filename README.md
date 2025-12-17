@@ -12,8 +12,6 @@ Thanks for stopping by!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lexi-nguyen-b56a3a28a)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lexi-Nguyen&show_icons=true&theme=radical&hide=contribs,prs,issues)
-
 ## 💻 My Skills:
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![EXCEL](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
@@ -28,3 +26,6 @@ Thanks for stopping by!
 ![GOOGLE SHEETS](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+## 📊 GitHub Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lexi-Nguyen&show_icons=true&theme=radical&hide=contribs,prs,issues)
