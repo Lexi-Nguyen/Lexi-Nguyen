@@ -8,13 +8,13 @@ I'm Lexi, an aspiring Data Analyst with a strong interest in turning data into m
 
 Thanks for stopping by!
 
-## 📬 How to reach me:
+## 📬 How to reach me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lexi-nguyen-b56a3a28a)
 [![Gmail](https://img.shields.io/badge/Email-grey?logo=gmail&logoColor=white)](mailto:klinhng1511@gmail.com)
 
 
-## 💻 My Skills:
+## 💻 My Skills
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![EXCEL](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
